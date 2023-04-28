@@ -173,7 +173,9 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
-
+```
+Developed by:Manoj S
+Reg no:212222100025
 #include "main.h"
 #include "lcd.h"
 
@@ -207,7 +209,7 @@ int main(void)
   }
   /* USER CODE END 3 */
 }
-
+```
 ## Output screen shots of proteus  :
 
  ![Screenshot (279)](https://user-images.githubusercontent.com/120365042/235069290-e3178223-cc2b-48c2-8ca7-66499b0a8d0f.png)
